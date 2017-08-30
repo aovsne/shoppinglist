@@ -1,0 +1,17 @@
+*{
+	font-family:sans-serif;
+}
+
+body{
+	background:black;
+}
+ul{
+	list-style-type:none;
+}
+#tutu{
+	text-align: center;
+	
+}
+.thip{
+	margin-top:10px;
+}
